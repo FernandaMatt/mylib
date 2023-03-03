@@ -1,4 +1,4 @@
-#include "libft.h"
+#include "../include/libft.h"
 
 static void	ft_putnbr_rec(int nb, int fd)
 {

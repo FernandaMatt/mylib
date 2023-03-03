@@ -1,4 +1,4 @@
-#include "libft.h"
+#include "../include/libft.h"
 
 static int	ft_mod(int n)
 {

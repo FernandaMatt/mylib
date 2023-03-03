@@ -1,4 +1,4 @@
-#include "libft.h"
+#include "../include/libft.h"
 
 int	ft_strchri(const char *s, int c)
 {
